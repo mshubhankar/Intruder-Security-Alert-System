@@ -1,4 +1,4 @@
-**Security Alert System**
+## Security Alert System ##
 
 A security alert system which continuously takes pictures from the webcam and verifies it with user image.
 
@@ -8,7 +8,7 @@ The system also automatically saves the images of the Intruders with date and ti
 
 **Currently works with my picture as user**
 
-**Dependencies**
+### Dependencies ###
 
 OpenCV<br>
 Terminal-Notifier<br>
