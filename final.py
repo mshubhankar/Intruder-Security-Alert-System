@@ -9,7 +9,7 @@ import datetime
 
 _url = 'https://westus.api.cognitive.microsoft.com/face/v1.0/detect'
 _vurl = 'https://westus.api.cognitive.microsoft.com/face/v1.0/verify'
-_key = 'd4bcc69057434bf1985ab4244741c09f' #Here you have to paste your primary key
+_key = '' #Here you have to paste your primary key
 _maxNumRetries = 10
 
 def notify(title, subtitle, message): #Function to notify on MAC
